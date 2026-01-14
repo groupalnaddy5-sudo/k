@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://groupalnaddy5-sudo.github.io/k/sitemap.xml
